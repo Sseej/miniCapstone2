@@ -1,5 +1,5 @@
 # miniCapstone2
-A project for [describe purpose here].  
+A project for our Subjects in SIA_IT206 & IM_IT104.  
 
 ## Setup
 1. Clone the repository:  
